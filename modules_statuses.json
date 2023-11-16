@@ -1,0 +1,9 @@
+{
+    "Auth": true,
+    "Admin": true,
+    "User": true,
+    "Dashboard": true,
+    "Transaction": true,
+    "Payment": true,
+    "Report": true
+}
